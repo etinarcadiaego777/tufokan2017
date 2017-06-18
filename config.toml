@@ -9,25 +9,14 @@ paginate = 10
 [params]
 
 
-# Menu links that appear on the left sidebar
 [[menu.main]]
-name = "Főoldal"
+name = "Rólunk"
 url = "/"
-weight = -200
-[[menu.main]]
-name = "Program"
-url = "/program/"
-weight = -170
+identifier = "about"
+weight = 10
+
 [[menu.main]]
 name = "Fellépők"
 url = "/artist/"
-weight = -160
-[[menu.main]]
-name = "Információk"
-url = "/jegyek/"
-weight = -150
-[[menu.main]]
-
-name = "Kontakt"
-url = "/kontakt/"
-weight = -120
+identifier = "artist"
+weight = 30

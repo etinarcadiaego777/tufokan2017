@@ -2,7 +2,9 @@
 cover_pic = ""
 date = "2017-06-18T14:00:17+02:00"
 title = "Jegyvásárlás"
-type = "ticket"
+[menu]
+     [menu.main]
+        weight = 40 
 +++
 [Internetes jegyvásárlás a TIXA rendszerén keresztül.](https://tixa.hu/)
 

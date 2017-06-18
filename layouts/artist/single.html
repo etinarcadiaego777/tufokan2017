@@ -1,7 +1,7 @@
 {{ partial "header.html" . }}
 {{ partial "navbar.html" . }}
 <div class="container">
-		<h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+		<h1><a href="javascript:history.back()" class="fa fa-arrow-left"></a> {{ .Title }}</a></h1>
 
 	<div class="row">
 	<div class="col-sm-4 col-xs-12 pull-right">
@@ -15,11 +15,11 @@
 		<div class="text-center">
 		<ul class="list-inline social-icons">
 			{{ with .Params.website }}
-					<li><a href="{{ . }}" target="_blank" class="fa fa-globe"></a></li>
-					{{ end }}
+			<li><a href="{{ . }}" target="_blank" class="fa fa-globe"></a></li>
+			{{ end }}
 			{{ with .Params.facebook }}
-					<li><a href="{{ . }}" target="_blank" class="fa fa-facebook"></a></li>
-					{{ end }}
+			<li><a href="{{ . }}" target="_blank" class="fa fa-facebook"></a></li>
+			{{ end }}
 			{{ with .Params.youtube }}
 			<li><a href="{{ . }}"  target="_blank" class="fa fa-youtube"></a></li>
 			{{ end }}
@@ -33,10 +33,10 @@
 	<section class="text-center">
 		<p>
 			<strong>{{ .Params.gigdate }}</strong>
-			</p>
-			<p>
+		</p>
+		<p>
 			{{ .Params.location }}
-			</p>
+		</p>
 	</section>
 	</div>
 	</div>

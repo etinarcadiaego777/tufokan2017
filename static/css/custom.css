@@ -2,6 +2,12 @@ html {
   height: 100%
 }
 
+@media print {
+  .navbar, footer {
+    display: none !important;
+  }
+}
+
 @media screen and (min-width: 1280px) {
     body {
       padding-top:50px;
@@ -74,12 +80,21 @@ a {
   color: #bf0808;
 }
 
-.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:focus,
+.navbar-default .navbar-nav>.active>a:hover,
+.navbar-default .navbar-nav>li>a:hover,
+.navbar-nav>a:hover,
+.navbar-nav>li.active, .navbar-nav>li.active>a:hover
+{
   background-color: inherit;
-  color: #bf0808;
+  color: inherit;
   text-decoration: underline;
 }
 
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+  background-color: inherit;
+}
 
 img {
   width: 100%;
