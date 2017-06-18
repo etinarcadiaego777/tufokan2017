@@ -1,0 +1,17 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+
+    <div class="container">
+
+      {{ partial "carousel.html" . }}
+
+
+      {{range where .Site.Pages "Type" "=" "about"}}
+      <section id="about">
+          <h2>{{ .Title}}</h2>
+          {{ .Content }}
+      </section>
+      {{ end}}
+
+
+{{ partial "footer.html" . }}
