@@ -5,7 +5,6 @@ sudo: required
 install:
  - wget -O /tmp/hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.24/hugo_0.24_Linux-64bit.deb
  - sudo dpkg -i /tmp/hugo.deb
- - sudo apt-get install -y lftp
 
 script:
  - hugo
