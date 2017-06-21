@@ -6,7 +6,7 @@ install:
  - sudo dpkg -i /tmp/hugo.deb
 
 script:
- - hugo
+ - hugo --baseUrl=$HUGO_BASEURL
 
 deploy:
   - provider: script
