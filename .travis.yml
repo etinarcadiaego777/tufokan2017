@@ -1,12 +1,16 @@
 # .travis.yml
 sudo: required
+addons:
+  apt:
+    packages:
+    - lftp
 
 install:
  - wget -O /tmp/hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.24/hugo_0.24_Linux-64bit.deb
  - sudo dpkg -i /tmp/hugo.deb
 
 script:
- - hugo --baseUrl=$HUGO_BASEURL
+ - hugo --baseUrl $HUGO_BASEURL
 
 deploy:
   - provider: script
