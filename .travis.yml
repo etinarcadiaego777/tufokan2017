@@ -1,5 +1,4 @@
 # .travis.yml
-dist: trusty
 sudo: required
 
 install:
