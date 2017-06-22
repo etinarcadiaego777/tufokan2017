@@ -1,7 +1,7 @@
 #baseUrl = "http://tufokan.cshorvath.com"
 languageCode = "hu-hu"
 
-title = "Tű Fokán Művészeti Fesztivál 2017"
+title = "Tű Fokán Művészeti Fesztivál 2017. július 5-9."
 theme = "hugo-bootswatch"
 
 paginate = 10

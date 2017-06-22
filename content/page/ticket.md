@@ -4,13 +4,9 @@ date = "2017-06-18T14:00:17+02:00"
 title = "Jegyvásárlás"
 [menu]
      [menu.main]
-        weight = 40 
+        weight = 40
 +++
-[Internetes jegyvásárlás a TIXA rendszerén keresztül.](https://tixa.hu/)
-
-Az internetes jegyvásárlási lehetőség **2016. június 28.-án 23:59:59-kor** zárul!
-
-A jegyárak a szállás árát nem tartalmazzák. Szállás lehetőségek [ITT](#)!
+[Internetes jegyvásárlás a TIXA rendszerén keresztül.](https://tixa.hu/tufokanfesztival2017)
 
 ### Jegyárak
 
