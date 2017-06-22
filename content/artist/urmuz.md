@@ -1,5 +1,5 @@
 +++
-name = "Urmuz"
+title = "Urmuz"
 gigDate = "2017. június 7. péntek 18:00"
 location = ""
 videos = []
