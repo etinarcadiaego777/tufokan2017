@@ -4,19 +4,15 @@ languageCode = "hu-hu"
 title = "Tű Fokán Művészeti Fesztivál 2017. július 5-9."
 theme = "hugo-bootswatch"
 
-paginate = 10
-
 [params]
-
-
 [[menu.main]]
 name = "Rólunk"
 url = "/"
 identifier = "about"
 weight = 10
 
-[[menu.main]]
-name = "Fellépők"
-url = "/artist/"
-identifier = "artist"
-weight = 30
+#[[menu.main]]
+#name = "Fellépők"
+#url = "/artist/"
+#identifier = "artist"
+#weight = 30

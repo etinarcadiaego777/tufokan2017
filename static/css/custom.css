@@ -38,6 +38,11 @@ html,body {
 .table {
   border: 0.5px solid #000000;
 }
+
+th {
+  text-align: center;
+}
+
 .table > thead > tr > th,
 .table > tbody > tr > th,
 .table > tfoot > tr > th,
