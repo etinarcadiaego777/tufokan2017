@@ -1,5 +1,6 @@
 +++
 date = "2017-06-18T01:55:36+02:00"
+gigDate = "2017. július 9. 16:30"
 images = ["/images/nagy_edi.jpg"]
 location = ""
 name = ""

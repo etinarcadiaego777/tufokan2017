@@ -1,27 +1,22 @@
 +++
 bandcamp = "https://landingvenus.bandcamp.com/"
-gigDate = "2017-07-06 20:00"
+gigDate = "2017. július 8. 20:00"
 facebook = "https://facebook.com/landingvenus"
 images = ["/images/landing.jpg"]
-location = "Nagyszínpad"
-name = ""
 soundcloud = "https://soundcloud.com/landingvenus"
 title = "Landing Venus"
 videos = []
 website = "http://landingvenus.com/"
 youtube = "https://www.youtube.com/watch?v=HldEnZB1ny4&list=PLFtRfJa_WscaxSMNPyt2-NizgOf0woBuX"
-
 +++
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam auctor ullamcorper lectus vitae pellentesque. Sed pulvinar nulla ac maximus tempor. Curabitur malesuada arcu ipsum, pellentesque malesuada orci blandit convallis. Nullam interdum nisl non tortor sollicitudin, sit amet semper nisi facilisis. Ut non vulputate libero. Maecenas ut commodo dolor. Sed id imperdiet sapien, eget fringilla velit. Mauris a tincidunt libero. Morbi quis accumsan orci, non dapibus erat. Phasellus condimentum viverra molestie.
+Zenéjüket a nyers, no wave ihlette hangzásvilág jellemzi, melyben a konkrétizmus, az avant-garde jazz és a pszichedelikus rock textúrái kerülnek előtérbe a dallammal szemben, kollektív improvizáció által. Hangzásvilágukat a preparált gitárhasználat, polikromatikus basszusmenetek, aritmikus dobolás és az egymást ellenpontozó, kísérleti és hagyományos technikákat ötvöző két női énekhang jellemzi. Szövegeikben olyan társadalmi problémák kapnak hangsúlyt, mint a tolerancia vagy az elidegenedés témaköre.
 
-Quisque nec magna augue. Duis hendrerit neque justo, in vehicula erat tincidunt in. Integer sed felis non lacus porta dignissim. Integer est enim, imperdiet viverra massa a, luctus convallis orci. Quisque gravida dignissim sem, non hendrerit nibh lobortis ut. Ut tincidunt eget odio ut luctus. Sed ut elit nisi.
+**Kisgyörgy Ilka** - ének
 
-**Ilka Kisgyörgy** - vocal
+**Horváth Hannah** - ének
 
-**Hannah Horváth** - vocal
+**Vajsz Kornél** - gitár
 
-**Kornél Vajsz** - guitar
+**Takács Rajmund** - basszusgitár
 
-**Rajmund Takács** - bass
-
-**Gergely Kovács** - drums
+**Kovács Gergely** - dob
