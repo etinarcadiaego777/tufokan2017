@@ -39,16 +39,16 @@ html,body {
   border: 0.5px solid #000000;
 }
 
-th {
+th, .custom-table td{
   text-align: center;
 }
 
-.table > thead > tr > th,
-.table > tbody > tr > th,
-.table > tfoot > tr > th,
-.table > thead > tr > td,
-.table > tbody > tr > td,
-.table > tfoot > tr > td {
+.custom-table > thead > tr > th,
+.custom-table > tbody > tr > th,
+.custom-table > tfoot > tr > th,
+.custom-table > thead > tr > td,
+.custom-table > tbody > tr > td,
+.custom-table > tfoot > tr > td {
    border: 0.5px solid #000000;
 }
 footer{

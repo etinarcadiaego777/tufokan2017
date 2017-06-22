@@ -52,10 +52,4 @@
 
     return lines;
   }
-  $('body').on('hidden.bs.modal', '.modal', function () {
-    $(this).removeData('bs.modal');
-  });
-  $('table').addClass('table table-condensed');
-
-  $('#program a').data("toggle", "modal").data("target", "#artist-modal");
 })();
