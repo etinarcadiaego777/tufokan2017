@@ -1,7 +1,7 @@
 +++
 date = "2017-06-18T01:25:46+02:00"
 images = ["/images/sofia.jpg"]
-location = ""
+gigDate = "2017. július 5. 20:00"
 title = "Sofia Balogh Band"
 videos = []
 facebook = "https://www.facebook.com/SofiaBaloghSinger"
