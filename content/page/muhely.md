@@ -9,4 +9,6 @@ title = "Műhelyek"
 <a href="https://www.facebook.com/events/1426383390752512">Faust workshop</a><br>
 <a href="https://www.facebook.com/events/638357566362731">Szabad improvizációs zenei műhely</a><br>
 Food workshop<br>
-Testidő műhely
+Testidő műhely<br>
+<a href="https://www.facebook.com/events/1929996277235243">Viewpoints műhely</a><br>
+Örömzene workshop
