@@ -11,5 +11,4 @@ title = "Műhelyek"
 Food workshop<br>
 Testidő műhely<br>
 <a href="https://www.facebook.com/events/1929996277235243">Viewpoints műhely</a><br>
-Örömzene workshop<br>
-Testidő workshop
+Örömzene workshop
