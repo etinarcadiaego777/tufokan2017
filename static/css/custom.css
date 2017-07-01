@@ -35,6 +35,13 @@ html,body {
   }
 }
 
+
+@media screen and (max-width: 500px) {
+  span.header-title{
+    display: none;
+  }
+}
+
 .table {
   border: 0.5px solid #000000;
 }

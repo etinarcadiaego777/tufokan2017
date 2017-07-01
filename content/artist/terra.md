@@ -11,6 +11,8 @@ A dalokban többek között szerelemtől elnyűtt matrózok, riadt lovak, sebhel
 
 A zenekar tagjai:
 
-Kiss krisztián – koboz, tenor szaxofon, ír buzuki<br>
-Szabó Mátyás – gitár, basszusgitár<br>
-Lo Buglio Vincenzo – ének
+**Kiss krisztián** – koboz, tenor szaxofon, ír buzuki
+
+**Szabó Mátyás** – gitár, basszusgitár
+
+**Lo Buglio Vincenzo** – ének

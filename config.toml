@@ -1,7 +1,7 @@
 #baseUrl = "http://tufokan.cshorvath.com"
 languageCode = "hu-hu"
 
-title = "Tű Fokán Művészeti Fesztivál 2017. július 5-9."
+title = "Tű Fokán Művészeti Fesztivál 2017. július 5-9. Garáb"
 theme = "hugo-bootswatch"
 
 [params]
@@ -10,9 +10,3 @@ name = "Rólunk"
 url = "/"
 identifier = "about"
 weight = 10
-
-#[[menu.main]]
-#name = "Fellépők"
-#url = "/artist/"
-#identifier = "artist"
-#weight = 30
