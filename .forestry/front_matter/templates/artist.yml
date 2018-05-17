@@ -27,16 +27,16 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: gigDate
-  label: Gigdate
-  type: text
-  hidden: false
-  default: ''
 - name: images
   label: Images
   type: image_gallery
   hidden: false
   default: []
+- name: gigDate
+  label: Gigdate
+  type: text
+  hidden: false
+  default: ''
 - name: location
   label: Location
   type: text
