@@ -1,9 +1,17 @@
 +++
+bandcamp = ""
+date = ""
+facebook = "http://www.index.hu"
 gigDate = ""
-facebook = ""
-images = [""]
-youtube = ""
+images = ["/images/terra.jpg"]
+location = ""
+name = ""
+soundcloud = ""
 title = "Örömzene workshop"
+videos = []
+website = ""
+youtube = ""
+
 +++
 Örömzene - Open Jam as Nature vibes
 
