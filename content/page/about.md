@@ -1,8 +1,10 @@
 +++
+cover_pic = ""
 date = "2017-06-17T18:11:47+02:00"
-draft = false
+draft = true
 title = ""
 type = "about"
+
 +++
 # 2017. július 5-9. Garáb
 
