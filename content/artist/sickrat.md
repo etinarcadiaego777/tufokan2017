@@ -26,3 +26,5 @@ Ez a felállás a szikár hangzás, így jobb szövegérthetőség következtéb
 **Móser Ádám** - harmónika
 
 **Ölvedi Gábor** - cajon, darbuka, def, riq, cin, vokál
+
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/AVB8ATNOBLY](https://www.youtube.com/embed/AVB8ATNOBLY "https://www.youtube.com/embed/AVB8ATNOBLY")" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
