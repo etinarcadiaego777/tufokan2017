@@ -19,6 +19,8 @@ Ez a felállás a szikár hangzás, így jobb szövegérthetőség következtéb
 
 "alapvetően rockzene, slágerként is működhetne, ha meglenne alá az a bizonyos médiazaj."
 
+{{< youtube AVB8ATNOBLY >}}
+
 **Paizs Miklós (Sickratman)** - ének, fujara, orrsíp, metallophone
 
 **Kertész Endre (fa)** - cselló, vokál
@@ -26,5 +28,3 @@ Ez a felállás a szikár hangzás, így jobb szövegérthetőség következtéb
 **Móser Ádám** - harmónika
 
 **Ölvedi Gábor** - cajon, darbuka, def, riq, cin, vokál
-
-{{< youtube AVB8ATNOBLY >}}
