@@ -25,4 +25,4 @@ A zenekar tagjai:
 * Marco Carnemolla, basszusgitár
 * Mario Gulisano, ütőhangszerek
 
-{{< youtube [B634Tk6hl8w](https://www.youtube.com/watch?v=B634Tk6hl8w)>}}
+{{< youtube B634Tk6hl8w>}}
