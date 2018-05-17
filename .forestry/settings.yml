@@ -1,7 +1,7 @@
 ---
-upload_path: "/static/uploads"
-frontmatter_file_url_template: "/static/uploads"
-body_file_url_template: "/static/uploads"
+upload_path: "/static/images"
+frontmatter_file_url_template: "/static/images"
+body_file_url_template: "/static/images"
 new_page_extension: md
 auto_deploy: false
 admin_path: 
