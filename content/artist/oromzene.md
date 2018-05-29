@@ -8,7 +8,6 @@ location = ""
 name = ""
 soundcloud = ""
 title = "Örömzene"
-type = "workshop"
 videos = []
 website = ""
 youtube = ""
