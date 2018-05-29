@@ -1,9 +1,9 @@
 +++
 bandcamp = ""
 date = "2018-05-29T15:37:36Z"
-facebook = ""
+facebook = "https://www.facebook.com/titokzatostelepesek/"
 gigDate = ""
-images = []
+images = ["/images/titokzatostelepesek.jpg"]
 location = ""
 name = ""
 soundcloud = ""
