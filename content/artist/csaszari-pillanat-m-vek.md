@@ -1,11 +1,11 @@
 +++
 bandcamp = ""
-date = "2018-05-29T15:35:12+00:00"
-draft = true
+date = "2018-05-29T15:35:12Z"
 facebook = ""
 gigDate = ""
 images = []
 location = ""
+name = ""
 soundcloud = ""
 title = "Császári Pillanat Művek"
 videos = []
