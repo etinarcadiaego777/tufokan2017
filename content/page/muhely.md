@@ -16,6 +16,12 @@ weight = 35
 <th>Helyszín</th>
 </thead>
 <tbody>
+  <tr>
+  <td><h3><a href="artist/mozgas-es-hang">Mozgás és Hang</a></h3></td>
+  <td>Lévai Viola</td>
+  <td>P-V</td>
+  <td></td>
+</tr>
 <tr>
   <td><h3><a href="artist/oromzene">Örömzene</a></h3></td>
   <td>Merkl Tamás, Balázs József</td>
