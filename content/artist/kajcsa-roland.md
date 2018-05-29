@@ -5,6 +5,7 @@ facebook = ""
 gigDate = ""
 images = []
 location = ""
+name = ""
 soundcloud = ""
 title = "Kajcsa-roland"
 videos = []
