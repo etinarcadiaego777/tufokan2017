@@ -22,5 +22,17 @@ weight = 35
   <td>Cs-V 13.00-15.00</td>
   <td>Forrás</td>
 </tr>
+  <tr>
+  <td><h3><a href="artist/vandormadarak">Vándormadarak</a></h3></td>
+  <td>Filep Krisztina Mandula</td>
+  <td>Cs-V</td>
+  <td></td>
+</tr>
+  <tr>
+  <td><h3><a href="artist/szabad-improvizacio">Szabad improvizáció</a></h3></td>
+  <td>Sőrés Zsolt</td>
+  <td>Cs-V</td>
+  <td>Közösségi Ház</td>
+</tr>
 </tbody>
 </table>
