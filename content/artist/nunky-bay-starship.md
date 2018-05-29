@@ -8,7 +8,6 @@ location = ""
 name = ""
 soundcloud = ""
 title = "Nunki Bay Starship"
-type = ""
 videos = []
 website = ""
 youtube = ""
