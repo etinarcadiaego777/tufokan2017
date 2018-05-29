@@ -2,7 +2,7 @@
 bandcamp = ""
 date = "2018-05-29T15:34:53Z"
 facebook = ""
-gigDate = ""
+gigDate = "Péntek 16:30"
 images = []
 location = ""
 name = ""
