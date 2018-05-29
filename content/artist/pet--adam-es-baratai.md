@@ -5,6 +5,7 @@ facebook = ""
 gigDate = ""
 images = []
 location = ""
+name = ""
 soundcloud = ""
 title = "Pető Ádám és barátai"
 videos = []
@@ -12,3 +13,4 @@ website = ""
 youtube = ""
 
 +++
+Ádám
