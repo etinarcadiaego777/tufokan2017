@@ -13,4 +13,4 @@ website = ""
 youtube = ""
 
 +++
-Csodás zenekar
+Csodás zenekar. De komolyan
