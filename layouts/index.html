@@ -3,7 +3,7 @@
 
     <div class="container">
 
-    
+     {{ partial "carousel.html" . }}
 
       {{range where .Site.Pages "Type" "=" "about"}}
       <section id="about">
@@ -17,7 +17,7 @@
 
            </div>
 
-                 {{ partial "carousel.html" . }}
+                
 
 
       {{ partial "footer.html" . }}
