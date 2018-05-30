@@ -7,7 +7,7 @@ type = "about"
 +++
 # 2018. június 27. - július 1., Garáb
 
-Nógrád megyében, Budapesttől alig 90 km-re 2013 óta megrendezésre kerülő családias összművészeti fesztivál. A fő hívó szavaink kísérletezés, alkotás, cselekvés. Minden évben különleges műhelyekkel és koncertélményekkel jelentkezünk.
+Nógrád megyében, Budapesttől alig 90 km-re 2013 óta megrendezésre kerülő családias összművészeti fesztivál. A fő hívó szavaink **kísérletezés**, **alkotás**, **cselekvés**. Minden évben különleges műhelyekkel és koncertélményekkel jelentkezünk.
 
 ## Mi a küldetésünk?
 
