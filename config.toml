@@ -1,12 +1,9 @@
-#baseUrl = "http://tufokan.com"
 languageCode = "hu-hu"
-
-title = "Tű Fokán Művészeti Fesztivál 2018. június 27.-július 1., Garáb"
 theme = "hugo-bootswatch"
-
-[params]
+title = "Tű Fokán Művészeti Fesztivál 2018. június 27.-július 1., Garáb"
 [[menu.main]]
+identifier = "about"
 name = "Rólunk"
 url = "/"
-identifier = "about"
-weight = 10
+weight = 1
+[params]

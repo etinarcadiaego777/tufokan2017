@@ -3,7 +3,7 @@ cover_pic = ""
 date = "2017-06-22T20:29:39+02:00"
 title = "Műhelyek"
 [menu.main]
-weight = 35
+weight = 3
 
 +++
 <h2>Műhelyeink 2018-ban</h2>

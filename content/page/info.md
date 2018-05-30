@@ -3,7 +3,7 @@ cover_pic = ""
 date = "2017-06-22T20:29:39+02:00"
 title = "Info"
 [menu.main]
-weight = 46
+weight = 5
 
 +++
 tufokanfesztival@gmail.com

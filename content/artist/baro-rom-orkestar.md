@@ -1,6 +1,6 @@
 +++
 bandcamp = ""
-date = "2018-05-28T15:54:05+00:00"
+date = "2018-05-28T15:54:05Z"
 facebook = "https://www.facebook.com/barodromorkestarofficial/"
 gigDate = ""
 images = ["/images/barodromorkestar.jpg"]

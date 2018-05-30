@@ -1,6 +1,6 @@
 +++
 bandcamp = ""
-date = "2018-05-28T15:38:12+00:00"
+date = "2018-05-28T15:38:12Z"
 facebook = "https://www.facebook.com/DynamiteDudes/"
 gigDate = ""
 images = ["/images/dinamitedudes.jpg"]
@@ -13,7 +13,6 @@ website = ""
 youtube = ""
 
 +++
-  
 Rockabilly-country-punk, lángoló nagybőgő, redneck boogie. A dupla basszus szivattyúzás mindenkit táncra perdít, a hárfa hangja lopakodik a táncoló talpak alatt. A  zenekar a régi rockabillyt keveri mindenféle régi és új dallammal.   
   
 Nagybőgőnél Mitch Farty, aki előszeretettel lobbantja lángra a hangszert a színpadon átvitt, és szó szerint értelemben.  
