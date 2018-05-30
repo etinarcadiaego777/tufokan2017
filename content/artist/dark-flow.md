@@ -13,8 +13,8 @@ website = ""
 youtube = ""
 
 +++
-A Dark Flow Ensemble magját a Liszt Ferenc Zeneművészeti Egyetem Elektronikus Zenei Médiaművészet tanszékének Sőrés Zsolt által tartott társas zene kurzusának a hallgatói képezik, amelyhez a Széchenyi István Egyetem Varga Tibor Zeneművészeti Intézet és a Magyar Képzőművészeti Egyetem Experimentális hangprodukció órájának a hallgatói valamint más fiatal kísérleti zenészek csatlakoztak.   
-  
+A Dark Flow Ensemble magját a Liszt Ferenc Zeneművészeti Egyetem Elektronikus Zenei Médiaművészet tanszékének Sőrés Zsolt által tartott társas zene kurzusának a hallgatói képezik, amelyhez a Széchenyi István Egyetem Varga Tibor Zeneművészeti Intézet és a Magyar Képzőművészeti Egyetem Experimentális hangprodukció órájának a hallgatói valamint más fiatal kísérleti zenészek csatlakoztak.
+
 Az együttes 2016. októberében nagy sikerrel mutatkozott be az Aurórában a Christian Wolff tiszteletére a Conceptual Soundproductions Budapest által rendezett koncerten valamint ugyanott 2017. januárjában az Átlátszó Hang fesztiválon, ahol a vajdasági avantgárd zeneszerző, Király Ernő (1919-2007) műveiből játszottak. Tavasszal pedig a Zágrábi Zenei Biennálén adtak koncertet Baráth Bálint és Kováts Jázon műveiből.
 
 Kornél Vajsz – voice   
@@ -23,4 +23,4 @@ Johanna Imrei - violin
 Zsolt Sőrés, artistic director – viola, electronics, objects  
 Jázon Kováts – electronics, viola
 
-PuX0uziQbf4
+{{< youtube PuX0uziQbf4>}}
