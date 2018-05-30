@@ -1,10 +1,10 @@
 +++
 bandcamp = ""
 date = "2018-05-29T15:37:53Z"
-facebook = ""
+facebook = "https://www.facebook.com/pg/darkflowensemble/"
 gigDate = "Vasárnap 18:00"
-images = []
-location = ""
+images = ["/images/darkflpw.jpg"]
+location = "Mező"
 name = ""
 soundcloud = "https://soundcloud.com/darkflowensemble"
 title = "Dark Flow Ensemble"
@@ -22,3 +22,5 @@ Júlia Frenyó – piano, saxophone
 Johanna Imrei - violin  
 Zsolt Sőrés, artistic director – viola, electronics, objects  
 Jázon Kováts – electronics, viola
+
+PuX0uziQbf4
