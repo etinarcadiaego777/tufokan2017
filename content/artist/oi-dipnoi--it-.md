@@ -1,6 +1,7 @@
 +++
 bandcamp = ""
 date = "2018-05-17T11:16:38Z"
+draft = true
 facebook = "https://www.facebook.com/OiDipnoi/"
 gigDate = "2018. június 28. 21:30"
 images = ["/images/iu.jpg"]
