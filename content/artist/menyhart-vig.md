@@ -6,6 +6,7 @@ facebook = ""
 gigDate = ""
 images = []
 location = ""
+name = ""
 soundcloud = ""
 title = "Menyhárt Jenő + Víg Mihály(duó)"
 videos = []
