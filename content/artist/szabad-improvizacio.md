@@ -1,7 +1,7 @@
 +++
 bandcamp = ""
 date = "2018-05-29T15:43:48Z"
-facebook = ""
+facebook = "https://www.facebook.com/events/1796251233769075/"
 gigDate = ""
 images = []
 location = ""
