@@ -29,10 +29,16 @@ weight = 3
 <td>Forrás</td>
 </tr>
 <tr>
+<td><h3><a href="/artist/mozgas-es-hang">Pesti Séta</a></h3></td>
+<td>Kajcsa Roland</td>
+<td>CS-V</td>
+<td></td>
+</tr>
+<tr>
 <td><h3><a href="/artist/vandormadarak">Vándormadarak</a></h3></td>
 <td>Filep Krisztina Mandula</td>
 <td>Cs-V</td>
-<td></td>
+<td>Természet</td>
 </tr>
 <tr>
 <td><h3><a href="/artist/szabad-improvizacio">Szabad improvizáció</a></h3></td>
@@ -44,7 +50,7 @@ weight = 3
 <td><h3><a href="/artist/udvar">Udvar</a></h3></td>
 <td>Gazdag Hajnalka</td>
 <td>Cs-V</td>
-<td></td>
+<td>Udvar</td>
 </tr>
 </tbody>
 </table>
