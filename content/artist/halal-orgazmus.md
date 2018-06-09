@@ -1,6 +1,7 @@
 +++
 bandcamp = "https://halalorgazmus.bandcamp.com/"
 date = "2018-05-29T15:37:13Z"
+draft = true
 facebook = "https://www.facebook.com/halalorgi/"
 gigDate = ""
 images = ["/images/halalorgazmus.jpg"]
