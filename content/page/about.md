@@ -1,6 +1,7 @@
 +++
 cover_pic = ""
 date = "2017-06-17T18:11:47+02:00"
+draft = true
 title = ""
 type = "about"
 
