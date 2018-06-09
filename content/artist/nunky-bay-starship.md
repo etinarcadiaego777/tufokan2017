@@ -1,6 +1,7 @@
 +++
 bandcamp = ""
 date = "2018-05-28T17:45:25+00:00"
+draft = true
 facebook = "https://www.facebook.com/nunkibay/"
 gigDate = "Szerda 21:00"
 images = ["/images/nunky.jpg"]
