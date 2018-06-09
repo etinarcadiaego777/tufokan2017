@@ -1,6 +1,7 @@
 +++
 cover_pic = ""
 date = "2017-06-22T20:29:39+02:00"
+draft = true
 title = "Műhelyek"
 [menu.main]
 weight = 3
