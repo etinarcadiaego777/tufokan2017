@@ -29,7 +29,7 @@ weight = 3
 <td>Forrás</td>
 </tr>
 <tr>
-<td><h3><a href="/artist/mozgas-es-hang">Pesti Séta</a></h3></td>
+<td><h3><a href="/artist/kajcsa-roland">Pesti Séta</a></h3></td>
 <td>Kajcsa Roland</td>
 <td>CS-V</td>
 <td></td>
