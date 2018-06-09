@@ -1,7 +1,6 @@
 +++
 bandcamp = ""
 date = "2018-05-29T15:34:30Z"
-draft = true
 facebook = ""
 gigDate = "Csütörtök 16:30"
 images = ["/images/tauber.jpg"]
