@@ -14,3 +14,4 @@ website = ""
 youtube = ""
 
 +++
+Menyhárt Jenő az Európa Kiadó és Víg Mihály a Balaton frontemberének koncertje a Tű Fokán Fesztiválon.
