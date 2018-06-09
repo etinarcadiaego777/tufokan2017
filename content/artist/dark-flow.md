@@ -1,7 +1,6 @@
 +++
 bandcamp = ""
 date = "2018-05-29T15:37:53Z"
-draft = true
 facebook = "https://www.facebook.com/pg/darkflowensemble/"
 gigDate = "Vasárnap 18:00"
 images = ["/images/darkflpw.jpg"]
