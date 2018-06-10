@@ -1,6 +1,6 @@
 +++
 bandcamp = "https://cantenacdagar.bandcamp.com/"
-date = "2018-06-29T22:00:00Z"
+date = "2018-05-29T22:00:00Z"
 facebook = ""
 gigDate = ""
 images = ["/images/cantenac.jpg"]
