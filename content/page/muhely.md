@@ -43,13 +43,13 @@ weight = 3
 <tr>
 <td><h3><a href="/artist/szabad-improvizacio">Szabad improvizáció</a></h3></td>
 <td>Sőrés Zsolt</td>
-<td>Cs-V</td>
+<td>Cs-V 10.00-14.00</td>
 <td>Közösségi Ház</td>
 </tr>
 <tr>
 <td><h3><a href="/artist/udvar">Udvar</a></h3></td>
 <td>Gazdag Hajnalka</td>
-<td>Cs-V</td>
+<td>Cs-V 10.00-13.00</td>
 <td>Udvar</td>
 </tr>
 </tbody>
