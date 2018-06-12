@@ -31,8 +31,8 @@ weight = 3
 <tr>
 <td><h3><a href="/artist/kajcsa-roland">Pesti Séta</a></h3></td>
 <td>Kajcsa Roland</td>
-<td>CS-V</td>
-<td></td>
+<td>CS-V 11.00-13.00</td>
+<td>Forrás</td>
 </tr>
 <tr>
 <td><h3><a href="/artist/vandormadarak">Vándormadarak</a></h3></td>
