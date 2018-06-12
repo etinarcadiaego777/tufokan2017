@@ -37,7 +37,7 @@ weight = 3
 <tr>
 <td><h3><a href="/artist/vandormadarak">Vándormadarak</a></h3></td>
 <td>Filep Krisztina Mandula</td>
-<td>Cs-V</td>
+<td>Cs-V 13.00-16.00</td>
 <td>Természet</td>
 </tr>
 <tr>
