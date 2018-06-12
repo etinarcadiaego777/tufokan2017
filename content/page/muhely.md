@@ -19,7 +19,7 @@ weight = 3
 <tr>
 <td><h3><a href="/artist/mozgas-es-hang">Mozgás és Hang</a></h3></td>
 <td>Lévai Viola</td>
-<td>P-V</td>
+<td>P-V 11.00-13.00</td>
 <td></td>
 </tr>
 <tr>
