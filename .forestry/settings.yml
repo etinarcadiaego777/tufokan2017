@@ -4,10 +4,10 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-  page:
-    default_front_matter_template: page
-  artist:
+  content/artist:
     default_front_matter_template: artist
+  content/page:
+    default_front_matter_template: page
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: "/images"
