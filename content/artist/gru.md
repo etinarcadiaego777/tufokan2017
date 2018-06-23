@@ -1,9 +1,9 @@
 +++
 bandcamp = ""
 date = "2018-06-09T11:10:29Z"
-facebook = ""
+facebook = "https://www.facebook.com/aliensfromabroad/"
 gigDate = "Péntek 20:00"
-images = []
+images = ["/images/kulfoldon.jpg"]
 location = ""
 name = ""
 soundcloud = ""
